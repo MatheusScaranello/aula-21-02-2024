@@ -92,7 +92,6 @@ const styles = StyleSheet.create({
     color: "#fff",
   },
   emplyList:{
-    fontSize: 18,
     color: "#ff0000",
   },
   cadasterList:{

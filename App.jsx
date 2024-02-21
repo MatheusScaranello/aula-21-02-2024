@@ -55,6 +55,7 @@ const [tasks, setTasks] = useState([]);
   <StatusBar style="auto" />
 </View>
 	);
+  
 }
 
 const styles = StyleSheet.create({
